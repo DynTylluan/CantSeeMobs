@@ -1,6 +1,6 @@
 # Can't See Mobs
 
-This is a very simple mod that can probably run in any version of Minecraft, but was made for 1.18. Very simply, the reason why it was made was that when I take screenshots in-game, I like to have no mobs be seen as a way to give the world a more abandoned look, this is just a personal choice, but you might like to use this - or not! It's up to you.
+This is a very simple mod that can probably run in any version of Minecraft, but was made for 1.19. Very simply, the reason why it was made was that when I take screenshots in-game, I like to have no mobs be seen as a way to give the world a more abandoned look, this is just a personal choice, but you might like to use this - or not! It's up to you.
 
 I don't know if I need to say this, but this mod only makes the mobs invisible, they will still be there and you can interact with them, you just can't see them. This also removes shadows from being seen.
 
